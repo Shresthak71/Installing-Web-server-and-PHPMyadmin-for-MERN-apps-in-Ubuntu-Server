@@ -458,5 +458,4 @@ npm -v
 * DigitalOcean: How To Install LAMP Stack on Ubuntu
 * DigitalOcean: How To Install and Secure phpMyAdmin on Ubuntu
 
-> Feel free to copy this README into your GitHub repository. Replace placeholders and commit! ✅
 
